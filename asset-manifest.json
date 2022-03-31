@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/main.44d4242d.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/main.a5cebf4e.js",
+    "static/css/538.db85c4dd.chunk.css": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/538.db85c4dd.chunk.css",
+    "static/js/538.14a5a0b2.chunk.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/538.14a5a0b2.chunk.js",
+    "static/css/555.f34d59d8.chunk.css": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/555.f34d59d8.chunk.css",
+    "static/js/555.a3ea98fc.chunk.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/555.a3ea98fc.chunk.js",
+    "static/css/254.0a34a6f3.chunk.css": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/254.0a34a6f3.chunk.css",
+    "static/js/254.a0f0feda.chunk.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/254.a0f0feda.chunk.js",
+    "static/js/787.1f013cd5.chunk.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/787.1f013cd5.chunk.js",
+    "static/js/183.b1a7fe41.chunk.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/183.b1a7fe41.chunk.js",
+    "static/js/569.f0051e7b.chunk.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/569.f0051e7b.chunk.js",
+    "static/js/989.4e9c7fcb.chunk.js": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/989.4e9c7fcb.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/index.html",
+    "main.44d4242d.css.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/main.44d4242d.css.map",
+    "main.a5cebf4e.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/main.a5cebf4e.js.map",
+    "538.db85c4dd.chunk.css.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/538.db85c4dd.chunk.css.map",
+    "538.14a5a0b2.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/538.14a5a0b2.chunk.js.map",
+    "555.f34d59d8.chunk.css.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/555.f34d59d8.chunk.css.map",
+    "555.a3ea98fc.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/555.a3ea98fc.chunk.js.map",
+    "254.0a34a6f3.chunk.css.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/css/254.0a34a6f3.chunk.css.map",
+    "254.a0f0feda.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/254.a0f0feda.chunk.js.map",
+    "787.1f013cd5.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/787.1f013cd5.chunk.js.map",
+    "183.b1a7fe41.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/183.b1a7fe41.chunk.js.map",
+    "569.f0051e7b.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/569.f0051e7b.chunk.js.map",
+    "989.4e9c7fcb.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sakura-dom/react-7777/static/js/989.4e9c7fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d4242d.css",
+    "static/js/main.a5cebf4e.js"
+  ]
+}
